@@ -2,7 +2,7 @@ class UserHomePage
 	class << self
 
 	def userlabel
-		$browser.a(:text,'+Vikas')
+		$browser.a(:text,'+UserName')
 	end
 
 	def loaded

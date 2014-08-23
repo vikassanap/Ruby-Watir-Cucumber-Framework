@@ -1,0 +1,5 @@
+# Test data required for test execution
+valid_email: user@gmail.com
+valid_password: password
+invalid_email: user@gmail.com
+invalid_password: password

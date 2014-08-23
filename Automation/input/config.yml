@@ -1,0 +1,4 @@
+#Specify config related to test case execution
+
+default_base_url: 'http://www.gmail.com'
+

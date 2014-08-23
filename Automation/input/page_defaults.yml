@@ -1,0 +1,5 @@
+#Specify default data for each page
+valid_email: example@example-gmail.com
+valid_password: password
+
+

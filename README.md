@@ -5,6 +5,7 @@
 
 ## Requirements
 - Ruby
+- Intall `.gem` files from `Automation/Gemfile`
 
 ## Features
 - Page Objects
